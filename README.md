@@ -1,2 +1,2 @@
 # MinMHC
-A minimal and straight-forward implementation of MHC-I and MHC-II binding and presentation predictions
+A minimal implementation of MHC-I and MHC-II binding and presentation predictions in PyTorch
